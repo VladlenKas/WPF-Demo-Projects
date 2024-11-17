@@ -1,4 +1,4 @@
-# (ру-ru) WPF Demo Projects
+# (Ру-Ru) WPF Demo Projects
 
 ## Описание
 
@@ -15,7 +15,7 @@
 Репозиторий организован следующим образом:
 
    ```bash
-      WPF-Demo-Projects/
+   WPF-Demo-Projects/
    ├── AutoCompleteTextBoxDemo/
    │ ├── MainWindow.xaml
    │ ├── MainWindow.xaml.cs
@@ -54,7 +54,7 @@
      git push origin main
      ```
 
-# (англ - en) WPF Demo Projects
+# (Англ - En) WPF Demo Projects
 
 ## Description
 
@@ -71,7 +71,7 @@ This repository contains various demo projects using WPF (Windows Presentation F
 The repository is organized as follows:
 
    ```bash
-      WPF-Demo-Projects/
+   WPF-Demo-Projects/
    ├── AutoCompleteTextBoxDemo/
    │ ├── MainWindow.xaml
    │ ├── MainWindow.xaml.cs
