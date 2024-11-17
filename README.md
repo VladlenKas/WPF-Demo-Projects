@@ -1,5 +1,4 @@
-# Русский / Russian
-# WPF Demo Projects
+# (ру-ru) WPF Demo Projects
 
 ## Описание
 
@@ -15,16 +14,18 @@
 
 Репозиторий организован следующим образом:
 
-WPF-Demo-Projects/
-├── AutoCompleteTextBoxDemo/
-│ ├── MainWindow.xaml
-│ ├── MainWindow.xaml.cs
-│ └── ...
-├── AnotherDemoProject/
-│ ├── MainWindow.xaml
-│ ├── MainWindow.xaml.cs
-│ └── ...
-└── README.md
+   ```bash
+      WPF-Demo-Projects/
+   ├── AutoCompleteTextBoxDemo/
+   │ ├── MainWindow.xaml
+   │ ├── MainWindow.xaml.cs
+   │ └── ...
+   ├── AnotherDemoProject/
+   │ ├── MainWindow.xaml
+   │ ├── MainWindow.xaml.cs
+   │ └── ...
+   └── README.md
+   ```
 
 Каждая папка содержит отдельный проект с исходным кодом и ресурсами.
 
@@ -53,8 +54,7 @@ WPF-Demo-Projects/
      git push origin main
      ```
 
-# Английский / Inglish
-# WPF Demo Projects
+# (англ - en) WPF Demo Projects
 
 ## Description
 
@@ -70,17 +70,18 @@ This repository contains various demo projects using WPF (Windows Presentation F
 
 The repository is organized as follows:
 
-WPF-Demo-Projects/
-├── AutoCompleteTextBoxDemo/
-│ ├── MainWindow.xaml
-│ ├── MainWindow.xaml.cs
-│ └── ...
-├── AnotherDemoProject/
-│ ├── MainWindow.xaml
-│ ├── MainWindow.xaml.cs
-│ └── ...
-└── README.md
-
+   ```bash
+      WPF-Demo-Projects/
+   ├── AutoCompleteTextBoxDemo/
+   │ ├── MainWindow.xaml
+   │ ├── MainWindow.xaml.cs
+   │ └── ...
+   ├── AnotherDemoProject/
+   │ ├── MainWindow.xaml
+   │ ├── MainWindow.xaml.cs
+   │ └── ...
+   └── README.md
+   ```
 
 Each folder contains a separate project with its source code and resources.
 
