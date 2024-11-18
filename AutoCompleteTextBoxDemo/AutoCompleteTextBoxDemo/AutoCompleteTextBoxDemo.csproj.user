@@ -7,7 +7,15 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="MainWindow.xaml">
+    <Compile Update="ViewModels\AutoCompleteComboBoxWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="ViewModels\AutoCompleteComboBoxWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewModels\AutoCompleteTextBoxWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

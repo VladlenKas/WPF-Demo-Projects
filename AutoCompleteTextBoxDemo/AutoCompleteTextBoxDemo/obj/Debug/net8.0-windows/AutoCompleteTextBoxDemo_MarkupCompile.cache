@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\SVTFOE_HUAWEI_PC\Documents\GitHub\WPF-Demo-Projects\AutoCompleteTextBoxDemo\AutoCompleteTextBoxDemo\App.xaml
-11407045341
+21059811117
 
-4-225547720
+61506615275
 198-556154604
-MainWindow.xaml;
+ViewModels\AutoCompleteComboBoxWindow.xaml;ViewModels\AutoCompleteTextBoxWindow.xaml;
 
 False
 

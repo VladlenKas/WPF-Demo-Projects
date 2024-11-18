@@ -3,11 +3,9 @@ C:\Users\SVTFOE_HUAWEI_PC\Documents\GitHub\WPF-Demo-Projects\AutoCompleteTextBox
 C:\Users\SVTFOE_HUAWEI_PC\Documents\GitHub\WPF-Demo-Projects\AutoCompleteTextBoxDemo\AutoCompleteTextBoxDemo\bin\Debug\net8.0-windows\AutoCompleteTextBoxDemo.runtimeconfig.json
 C:\Users\SVTFOE_HUAWEI_PC\Documents\GitHub\WPF-Demo-Projects\AutoCompleteTextBoxDemo\AutoCompleteTextBoxDemo\bin\Debug\net8.0-windows\AutoCompleteTextBoxDemo.dll
 C:\Users\SVTFOE_HUAWEI_PC\Documents\GitHub\WPF-Demo-Projects\AutoCompleteTextBoxDemo\AutoCompleteTextBoxDemo\bin\Debug\net8.0-windows\AutoCompleteTextBoxDemo.pdb
-C:\Users\SVTFOE_HUAWEI_PC\Documents\GitHub\WPF-Demo-Projects\AutoCompleteTextBoxDemo\AutoCompleteTextBoxDemo\obj\Debug\net8.0-windows\MainWindow.g.cs
 C:\Users\SVTFOE_HUAWEI_PC\Documents\GitHub\WPF-Demo-Projects\AutoCompleteTextBoxDemo\AutoCompleteTextBoxDemo\obj\Debug\net8.0-windows\App.g.cs
 C:\Users\SVTFOE_HUAWEI_PC\Documents\GitHub\WPF-Demo-Projects\AutoCompleteTextBoxDemo\AutoCompleteTextBoxDemo\obj\Debug\net8.0-windows\AutoCompleteTextBoxDemo_MarkupCompile.cache
 C:\Users\SVTFOE_HUAWEI_PC\Documents\GitHub\WPF-Demo-Projects\AutoCompleteTextBoxDemo\AutoCompleteTextBoxDemo\obj\Debug\net8.0-windows\AutoCompleteTextBoxDemo_MarkupCompile.lref
-C:\Users\SVTFOE_HUAWEI_PC\Documents\GitHub\WPF-Demo-Projects\AutoCompleteTextBoxDemo\AutoCompleteTextBoxDemo\obj\Debug\net8.0-windows\MainWindow.baml
 C:\Users\SVTFOE_HUAWEI_PC\Documents\GitHub\WPF-Demo-Projects\AutoCompleteTextBoxDemo\AutoCompleteTextBoxDemo\obj\Debug\net8.0-windows\AutoCompleteTextBoxDemo.g.resources
 C:\Users\SVTFOE_HUAWEI_PC\Documents\GitHub\WPF-Demo-Projects\AutoCompleteTextBoxDemo\AutoCompleteTextBoxDemo\obj\Debug\net8.0-windows\AutoCompleteTextBoxDemo.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\SVTFOE_HUAWEI_PC\Documents\GitHub\WPF-Demo-Projects\AutoCompleteTextBoxDemo\AutoCompleteTextBoxDemo\obj\Debug\net8.0-windows\AutoCompleteTextBoxDemo.AssemblyInfoInputs.cache
@@ -19,3 +17,7 @@ C:\Users\SVTFOE_HUAWEI_PC\Documents\GitHub\WPF-Demo-Projects\AutoCompleteTextBox
 C:\Users\SVTFOE_HUAWEI_PC\Documents\GitHub\WPF-Demo-Projects\AutoCompleteTextBoxDemo\AutoCompleteTextBoxDemo\obj\Debug\net8.0-windows\AutoCompleteTextBoxDemo.pdb
 C:\Users\SVTFOE_HUAWEI_PC\Documents\GitHub\WPF-Demo-Projects\AutoCompleteTextBoxDemo\AutoCompleteTextBoxDemo\obj\Debug\net8.0-windows\AutoCompleteTextBoxDemo.genruntimeconfig.cache
 C:\Users\SVTFOE_HUAWEI_PC\Documents\GitHub\WPF-Demo-Projects\AutoCompleteTextBoxDemo\AutoCompleteTextBoxDemo\obj\Debug\net8.0-windows\ref\AutoCompleteTextBoxDemo.dll
+C:\Users\SVTFOE_HUAWEI_PC\Documents\GitHub\WPF-Demo-Projects\AutoCompleteTextBoxDemo\AutoCompleteTextBoxDemo\obj\Debug\net8.0-windows\ViewModels\AutoCompleteTextBoxWindow.g.cs
+C:\Users\SVTFOE_HUAWEI_PC\Documents\GitHub\WPF-Demo-Projects\AutoCompleteTextBoxDemo\AutoCompleteTextBoxDemo\obj\Debug\net8.0-windows\ViewModels\AutoCompleteTextBoxWindow.baml
+C:\Users\SVTFOE_HUAWEI_PC\Documents\GitHub\WPF-Demo-Projects\AutoCompleteTextBoxDemo\AutoCompleteTextBoxDemo\obj\Debug\net8.0-windows\ViewModels\AutoCompleteComboBoxWindow.g.cs
+C:\Users\SVTFOE_HUAWEI_PC\Documents\GitHub\WPF-Demo-Projects\AutoCompleteTextBoxDemo\AutoCompleteTextBoxDemo\obj\Debug\net8.0-windows\ViewModels\AutoCompleteComboBoxWindow.baml
