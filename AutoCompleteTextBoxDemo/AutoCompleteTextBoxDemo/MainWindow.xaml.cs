@@ -50,6 +50,7 @@ namespace AutoCompleteTextBoxDemo
 
         public MainWindow()
         {
+            // Инициализация коллекции исходных элементов
             Items = new ObservableCollection<string>
             {
                 "Авокадо",
